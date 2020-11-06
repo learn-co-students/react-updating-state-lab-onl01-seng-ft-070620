@@ -1,6 +1,6 @@
 # React Updating State Lab
 
-## Overview
+## Overview 
 
 In this lab, you'll update state using `setState()`. After running `npm install`
 and `npm start`, you'll see that this app is not currently working. Your task is
